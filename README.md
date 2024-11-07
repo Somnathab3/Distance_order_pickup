@@ -62,10 +62,3 @@ In a warehouse, items are stored in bins arranged linearly. An order picker retr
 
 **Description:** Items frequently picked together are grouped into clusters using hierarchical clustering with average linkage. Clusters are ordered based on total access frequencies, and items within clusters are ordered by their individual frequencies.
 
-## Installation
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/storage-bin-allocation.git
-   cd storage-bin-allocation
